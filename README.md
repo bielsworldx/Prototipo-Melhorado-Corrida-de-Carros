@@ -18,7 +18,7 @@ Protótipo simples de um jogo de corrida multiplayer.
 
 ## Stack utilizada
 
-**Front-end:** JavaScript, CSS e HTMML
+**Front-end:** JavaScript, CSS e HTML
 
 
 
